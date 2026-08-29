@@ -3,3 +3,7 @@
 This task involves to view diet plan of member
 **Status: Implemented**
 
+## T-3:Implement Member Registration Page
+This task involves creating a registration form component with email and password fields,including validation and error handling.
+**Status: Implemented**
+
