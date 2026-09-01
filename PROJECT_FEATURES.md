@@ -11,3 +11,7 @@ This task involves creating a registration form component with email and passwor
 This task involves creating a form for members to submit feedback and ratings about the gym facilities and trainers.
 **Status: Implemented**
 
+## T-4:Implement Membership Page 
+This task involves creating a Membership page 
+**Status: Implemented**
+
