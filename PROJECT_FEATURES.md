@@ -15,3 +15,7 @@ This task involves creating a form for members to submit feedback and ratings ab
 This task involves creating a Membership page 
 **Status: Implemented**
 
+## T-17: Implement create workout plans Page
+This task involves creating a page for create workout plan
+***Status: Implemented***
+
